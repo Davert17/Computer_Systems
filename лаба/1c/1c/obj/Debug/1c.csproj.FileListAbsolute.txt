@@ -1,0 +1,7 @@
+C:\Users\daver\Desktop\Комп системы\лаба 2\1c\1c\bin\Debug\1c.exe.config
+C:\Users\daver\Desktop\Комп системы\лаба 2\1c\1c\bin\Debug\1c.exe
+C:\Users\daver\Desktop\Комп системы\лаба 2\1c\1c\bin\Debug\1c.pdb
+C:\Users\daver\Desktop\Комп системы\лаба 2\1c\1c\obj\Debug\1c.csprojResolveAssemblyReference.cache
+C:\Users\daver\Desktop\Комп системы\лаба 2\1c\1c\obj\Debug\1c.csproj.CoreCompileInputs.cache
+C:\Users\daver\Desktop\Комп системы\лаба 2\1c\1c\obj\Debug\1c.exe
+C:\Users\daver\Desktop\Комп системы\лаба 2\1c\1c\obj\Debug\1c.pdb
